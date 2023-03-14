@@ -168,48 +168,6 @@
       "date": "2022-11-30",
       "team1": "Tunisia",
       "team2": "France"
-    },
-    {
-      "round": "Matchday 4",
-      "group": "Group E",
-      "date": "2022-11-23",
-      "team1": "Germany",
-      "team2": "Japan"
-    },
-    {
-      "round": "Matchday 4",
-      "group": "Group E",
-      "date": "2022-11-23",
-      "team1": "Spain",
-      "team2": "Costa Rica"
-    },
-    {
-      "round": "Matchday 8",
-      "group": "Group E",
-      "date": "2022-11-27",
-      "team1": "Japan",
-      "team2": "Costa Rica"
-    },
-    {
-      "round": "Matchday 8",
-      "group": "Group E",
-      "date": "2022-11-27",
-      "team1": "Spain",
-      "team2": "Germany"
-    },
-    {
-      "round": "Matchday 12",
-      "group": "Group E",
-      "date": "2022-12-01",
-      "team1": "Japan",
-      "team2": "Spain"
-    },
-    {
-      "round": "Matchday 12",
-      "group": "Group E",
-      "date": "2022-12-01",
-      "team1": "Costa Rica",
-      "team2": "Germany"
     }
   ]
 }
