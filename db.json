@@ -210,48 +210,6 @@
       "date": "2022-12-01",
       "team1": "Costa Rica",
       "team2": "Germany"
-    },
-    {
-      "round": "Matchday 4",
-      "group": "Group F",
-      "date": "2022-11-23",
-      "team1": "Morocco",
-      "team2": "Croatia"
-    },
-    {
-      "round": "Matchday 4",
-      "group": "Group F",
-      "date": "2022-11-23",
-      "team1": "Belgium",
-      "team2": "Canada"
-    },
-    {
-      "round": "Matchday 8",
-      "group": "Group F",
-      "date": "2022-11-27",
-      "team1": "Belgium",
-      "team2": "Morocco"
-    },
-    {
-      "round": "Matchday 8",
-      "group": "Group F",
-      "date": "2022-11-27",
-      "team1": "Croatia",
-      "team2": "Canada"
-    },
-    {
-      "round": "Matchday 12",
-      "group": "Group F",
-      "date": "2022-12-01",
-      "team1": "Croatia",
-      "team2": "Belgium"
-    },
-    {
-      "round": "Matchday 12",
-      "group": "Group F",
-      "date": "2022-12-01",
-      "team1": "Canada",
-      "team2": "Morocco"
     }
   ]
 }
