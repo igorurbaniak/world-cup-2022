@@ -1,4 +1,42 @@
 {
+    "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        "Qatar",
+        "Ecuador",
+        "Senegal",
+        "Netherlands"
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        "England",
+        "Iran",
+        "United States",
+        "Wales"
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        "Argentina",
+        "Saudi Arabia",
+        "Mexico",
+        "Poland"
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        "Denmark",
+        "Tunisia",
+        "France",
+        "Australia"
+      ]
+    }
+  ],
 "matches": [
     {
       "round": "Matchday 1",
