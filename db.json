@@ -43,168 +43,216 @@
       "group": "Group A",
       "date": "2022-11-20",
       "team1": "Qatar",
-      "team2": "Ecuador"
+      "team2": "Ecuador",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg" 
     },
     {
       "round": "Matchday 2",
       "group": "Group A",
       "date": "2022-11-21",
       "team1": "Senegal",
-      "team2": "Netherlands"
+      "team2": "Netherlands",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg"   
     },
     {
       "round": "Matchday 6",
       "group": "Group A",
       "date": "2022-11-25",
       "team1": "Qatar",
-      "team2": "Senegal"
+      "team2": "Senegal",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
     },
     {
       "round": "Matchday 6",
       "group": "Group A",
       "date": "2022-11-25",
       "team1": "Netherlands",
-      "team2": "Ecuador"
+      "team2": "Ecuador",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg"
     },
     {
       "round": "Matchday 10",
       "group": "Group A",
       "date": "2022-11-29",
       "team1": "Ecuador",
-      "team2": "Senegal"
+      "team2": "Senegal",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
     },
     {
       "round": "Matchday 10",
       "group": "Group A",
       "date": "2022-11-29",
       "team1": "Netherlands",
-      "team2": "Qatar"
+      "team2": "Qatar",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg"
     },
     {
       "round": "Matchday 2",
       "group": "Group B",
       "date": "2022-11-21",
       "team1": "England",
-      "team2": "Iran"
+      "team2": "Iran",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
     },
     {
       "round": "Matchday 2",
       "group": "Group B",
       "date": "2022-11-21",
       "team1": "United States",
-      "team2": "Wales"
+      "team2": "Wales",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg"
     },
     {
       "round": "Matchday 6",
       "group": "Group B",
       "date": "2022-11-25",
       "team1": "Wales",
-      "team2": "Iran"
+      "team2": "Iran",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
     },
     {
       "round": "Matchday 6",
       "group": "Group B",
       "date": "2022-11-25",
       "team1": "England",
-      "team2": "United States"
+      "team2": "United States",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg"
     },
     {
       "round": "Matchday 10",
       "group": "Group B",
       "date": "2022-11-29",
       "team1": "Wales",
-      "team2": "England"
+      "team2": "England",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg"
     },
     {
       "round": "Matchday 10",
       "group": "Group B",
       "date": "2022-11-29",
       "team1": "Iran",
-      "team2": "United States"
+      "team2": "United States",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg"  
     },
     {
       "round": "Matchday 3",
       "group": "Group C",
       "date": "2022-11-22",
       "team1": "Argentina",
-      "team2": "Saudi Arabia"
+      "team2": "Saudi Arabia",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"
     },
     {
       "round": "Matchday 3",
       "group": "Group C",
       "date": "2022-11-22",
       "team1": "Mexico",
-      "team2": "Poland"
+      "team2": "Poland",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg"  
     },
     {
       "round": "Matchday 7",
       "group": "Group C",
       "date": "2022-11-26",
       "team1": "Poland",
-      "team2": "Saudi Arabia"
+      "team2": "Saudi Arabia",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"    
     },
     {
       "round": "Matchday 7",
       "group": "Group C",
       "date": "2022-11-26",
       "team1": "Argentina",
-      "team2": "Mexico"
+      "team2": "Mexico",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"      
     },
     {
       "round": "Matchday 11",
       "group": "Group C",
       "date": "2022-11-30",
       "team1": "Poland",
-      "team2": "Argentina"
+      "team2": "Argentina",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"      
     },
     {
       "round": "Matchday 11",
       "group": "Group C",
       "date": "2022-11-30",
       "team1": "Saudi Arabia",
-      "team2": "Mexico"
+      "team2": "Mexico",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"      
     },
     {
       "round": "Matchday 3",
       "group": "Group D",
       "date": "2022-11-22",
       "team1": "Denmark",
-      "team2": "Tunisia"
+      "team2": "Tunisia",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg"
     },
     {
       "round": "Matchday 3",
       "group": "Group D",
       "date": "2022-11-22",
       "team1": "France",
-      "team2": "Australia"
+      "team2": "Australia",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
     },
     {
       "round": "Matchday 7",
       "group": "Group D",
       "date": "2022-11-26",
       "team1": "Tunisia",
-      "team2": "Australia"
+      "team2": "Australia",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
     },
     {
       "round": "Matchday 7",
       "group": "Group D",
       "date": "2022-11-26",
       "team1": "France",
-      "team2": "Denmark"
+      "team2": "Denmark",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
     },
     {
       "round": "Matchday 11",
       "group": "Group D",
       "date": "2022-11-30",
       "team1": "Australia",
-      "team2": "Denmark"
+      "team2": "Denmark",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
     },
     {
       "round": "Matchday 11",
       "group": "Group D",
       "date": "2022-11-30",
       "team1": "Tunisia",
-      "team2": "France"
+      "team2": "France",
+      "picture1": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
+      "picture2": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg"
     }
   ]
 }
